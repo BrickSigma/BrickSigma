@@ -2,7 +2,7 @@
 
 My name is Junaid Chaudhry. I enjoy exploring different libraries and programming techniques, along with combining them with hardware like the Raspberry Pi and LEGO Mindstorms EV3 and building video games.
 
-## Some of my projects
+## :computer: Some of my projects
 - XBox controller support for the LEGO Mindstorms EV3 kit
 - A stereo system display for Windows desktop
 - Asteroids clone
