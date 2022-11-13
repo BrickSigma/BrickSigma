@@ -1,4 +1,4 @@
-# Hi there 👋
+# About Myself
 
 My name is Junaid Chaudhry. I enjoy exploring different libraries and programming techniques, along with combining them with hardware like the Raspberry Pi and LEGO Mindstorms EV3 and building video games.
 
