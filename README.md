@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**BrickSigma/BrickSigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Junaid Chaudhry. I enjoy exploring different libraries and programming techniques, along with combining them with hardware like the Raspberry Pi and LEGO Mindstorms EV3 and building video games.
 
-Here are some ideas to get you started:
+## Some of my projects
+- XBox controller support for the LEGO Mindstorms EV3 kit
+- A stereo system display for Windows desktop
+- Asteroids clone
+- Chroma-Key software (still in development)
+- Tic-Tac-Toe AI with a graphic user interface
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently working on
+- A sockets library designed for video game programming
+
+## Programming languages I use
+- Python (for two and a half years)
+- C (for the past six months)
