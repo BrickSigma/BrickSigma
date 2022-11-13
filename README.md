@@ -1,6 +1,6 @@
 # About Myself
 
-My name is Junaid Chaudhry. I enjoy exploring different libraries and programming techniques, along with combining them with hardware like the Raspberry Pi and LEGO Mindstorms EV3 and building video games.
+My name is Junaid Chaudhry. I am a self taught programmer who enjoys exploring different libraries and programming techniques, along with combining them with hardware like the Raspberry Pi and LEGO Mindstorms EV3 and building video games.
 
 ## :computer: Some of my projects
 - XBox controller support for the LEGO Mindstorms EV3 kit
