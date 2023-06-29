@@ -5,8 +5,7 @@ My name is Junaid Chaudhry. I am a self taught programmer who enjoys exploring d
 ## :computer: Some of my projects
 - NES remake of Pong in 6502 assembly
 - Asteroids clone
-- Chroma-Key software (still in development)
-- Tic-Tac-Toe AI with a graphic user interface
+- Tic-Tac-Toe AI using Raylib
 
 ## What I'm currently working on
 - A sockets library designed for video game programming
