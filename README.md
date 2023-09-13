@@ -3,14 +3,13 @@
 My name is Junaid Chaudhry. I am a self taught programmer who enjoys exploring different libraries and programming techniques, along with building video games and implementing different computer alogorithms in my projects.
 
 ## :computer: Some of my projects
-- NES remake of Pong in 6502 assembly
-- Asteroids clone
-- Tic-Tac-Toe AI using Raylib
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=Pong-NES)](https://github.com/BrickSigma/Pong-NES)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=Tic-Tac-Toe-Minimax)](https://github.com/BrickSigma/Tic-Tac-Toe-Minimax)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=Asteroids-pygame)](https://github.com/BrickSigma/Asteroids-pygame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=Game-of-Life-Raylib)](https://github.com/BrickSigma/Game-of-Life-Raylib)
 
 ## What I'm currently working on
-- A sockets library designed for video game programming
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=VGSockets)](https://github.com/bricksigma/vgsockets)
 
 ## Programming languages I use
-- Python (3+ years)
-- C (1 year)
-- 6502 Assembly (2 months)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricksigma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
