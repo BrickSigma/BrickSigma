@@ -9,7 +9,7 @@ My name is Junaid Chaudhry (aka Brick Sigma). I am a self taught programmer who 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=Game-of-Life-Raylib&theme=transparent)](https://github.com/BrickSigma/Game-of-Life-Raylib)
 
 ## What I'm currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=ChippyOS&theme=transparent)](https://github.com/bricksigma/ChippyOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bricksigma&repo=SteinerOS&theme=transparent)](https://github.com/bricksigma/SteinerOS)
 
 ## Programming languages I use
 [![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrickSigma&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
