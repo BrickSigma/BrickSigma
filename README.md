@@ -20,7 +20,7 @@ And a lot more!
 ![](https://nirzak-streak-stats.vercel.app/?user=bricksigma&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bricksigma&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Why Brick Sigma?
+# What's with the name "Brick Sigma"?
 Good question! The name comes from two of my many interests: **Lego** and **Mathematics**. I've always enjoyed building and creating things with Lego, and mathematics is one of the subjects I love to apply in my CS projects, from linear algebra in video games to discrete mathemeatics in solving recursive functions.
 
 **Brick Sigma** represents the summation (from the Greek letter Sigma) of all my projects I've ever built, all shared online under this one username.
